@@ -1,2 +1,2 @@
 # DSA-IN-C
- This is all of DSA i have studied in my college.
+ This is all of DSA I have studied at my college.
