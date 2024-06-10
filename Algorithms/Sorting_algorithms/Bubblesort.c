@@ -1,5 +1,3 @@
-// C program to implement Bubble sort
-
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n) {
